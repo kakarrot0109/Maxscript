@@ -1,0 +1,1 @@
+encryptScript (getFilenamePath (getSourceFileName()) + "一键模型提取.ms")

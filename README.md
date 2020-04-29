@@ -1,2 +1,5 @@
-# Maxscript
-3dsMax Script
+# MaxScript
+
+Some Maxscript for 3dsMax
+
+Author：Kakarrot
